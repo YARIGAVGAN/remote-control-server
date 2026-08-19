@@ -1,0 +1,9 @@
+server:
+  port: 8080
+
+app:
+  api-key: CHANGE_ME
+  vnc:
+    service-name: x11vnc
+  ir:
+    default-remote: Samsung
