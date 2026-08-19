@@ -6,7 +6,7 @@ This version contains the base Spring Boot server, API key authorization, health
 
 ## Requirements
 
-- Linux Mint XFCE
+- Linux 
 - Java 17
 - Gradle wrapper from this repository
 
